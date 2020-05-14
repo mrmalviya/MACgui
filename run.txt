@@ -1,0 +1,24 @@
+**The developer is not responsible for any kind of missuse
+
+*This software is under development.
+*Any kind of errors or bugs or queries can be repoeted and asked onto the given email
+// malviyamalviya27@gmail.com //
+
+***Steps:-
+
+1)sudo su
+2)run setup.py using the command "python3 setup.py"
+3)run macgui using the command "python3 macgui.py"
+4)"Mac-changer" GUI appeares.
+5)Work accordindly.
+
+NOTE:-
+
+1)All the files (setup, macgui, support_mac) should be in the same folder.
+2)changing mac randomly (under the option:- change mac random) can causes your computer to freeze or the GUI won't work. To exit this situation PRESS CTRL+C onto the terminal.
+
+
+**Requires:-
+1)python3
+2)pyqt5
+
