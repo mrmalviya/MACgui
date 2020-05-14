@@ -24,3 +24,7 @@ $ python3 maccgui.py
 To run Terminal interface of periodic mac changer :
 ```
 $ python3 macter.py
+
+```
+
+Special thanks sumeet varghade
