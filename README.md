@@ -27,4 +27,3 @@ $ python3 macter.py
 
 ```
 
-Special thanks sumeet varghade
